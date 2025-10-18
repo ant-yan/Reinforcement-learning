@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1TvH8XRGxZN41gJb-HF4LSexuui-duDyy
 """
 
-# ========================================
-# FULL SELF-CONTAINED VERSION
-# Generates 6-panel figure (like your friend)
-# ========================================
-
 import numpy as np
 import matplotlib.pyplot as plt
 import os
