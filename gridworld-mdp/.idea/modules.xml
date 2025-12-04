@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/counter-examples.iml" filepath="$PROJECT_DIR$/.idea/counter-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gridworld-mdp.iml" filepath="$PROJECT_DIR$/.idea/gridworld-mdp.iml" />
     </modules>
   </component>
 </project>
